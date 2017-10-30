@@ -1,0 +1,21 @@
+[ 2015-10-09T11:43:28+08:00 ] 127.0.0.1 /ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009602s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+
+[ 2015-10-09T11:44:18+08:00 ] 127.0.0.1 /ssq_yzm_thinkphp/index.php/index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.364608s ]
+INFO: [ route_check ] --END-- [ RunTime:0.364906s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002696s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/ssq_yzm_thinkphp/Lib/Action/indexAction.class.php 第 8 行.
+
+[ 2015-10-09T11:44:37+08:00 ] 127.0.0.1 /ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001750s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+

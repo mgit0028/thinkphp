@@ -1,0 +1,378 @@
+[ 2016-04-25T13:11:24+08:00 ] 192.168.1.185 /yzm_buy%2b_suiji_kongwei_999999999/%e5%88%86%e9%85%8dTP%e9%aa%8c%e8%af%81%e7%a0%81%e7%89%88%e9%9a%8f%e6%9c%ba%e9%80%89%e5%8f%b7%e7%a8%8b%e5%ba%8f2015%e6%96%b0/ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004755s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.007228s ]
+INFO: [ view_template ] --END-- [ RunTime:0.007551s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.064668s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064943s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.004337s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.005024s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002190s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.003036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015447s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002984s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003174s ]
+
+[ 2016-04-25T13:11:24+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.004689s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004944s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003067s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002310s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002671s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.030274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030752s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002218s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002382s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002465s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010538s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003861s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004130s ]
+
+[ 2016-04-25T13:11:24+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.004365s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004854s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003600s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 8 行.
+
+[ 2016-04-25T13:11:30+08:00 ] 192.168.1.185 /yzm_buy%2b_suiji_kongwei_999999999/%e5%88%86%e9%85%8dTP%e9%aa%8c%e8%af%81%e7%a0%81%e7%89%88%e9%9a%8f%e6%9c%ba%e9%80%89%e5%8f%b7%e7%a8%8b%e5%ba%8f2015%e6%96%b0/ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002741s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003072s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003369s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.031768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032036s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002670s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002672s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002731s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.003298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012047s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003643s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003857s ]
+
+[ 2016-04-25T13:11:31+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003345s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003749s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003694s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003392s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003650s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.028322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028575s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.004588s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002903s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000791s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010122s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001943s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-04-25T13:11:31+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003008s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003254s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001944s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 8 行.
+
+[ 2016-04-25T13:11:32+08:00 ] 192.168.1.185 /yzm_buy%2b_suiji_kongwei_999999999/%e5%88%86%e9%85%8dTP%e9%aa%8c%e8%af%81%e7%a0%81%e7%89%88%e9%9a%8f%e6%9c%ba%e9%80%89%e5%8f%b7%e7%a8%8b%e5%ba%8f2015%e6%96%b0/ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002369s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001222s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001434s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.025522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025740s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002916s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002641s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002214s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002510s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010804s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002581s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002805s ]
+
+[ 2016-04-25T13:11:32+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002636s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002877s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002026s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001433s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001698s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.030027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030282s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002665s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.004991s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002112s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012626s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003051s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003271s ]
+
+[ 2016-04-25T13:11:32+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003125s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003381s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002844s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 8 行.
+
+[ 2016-04-25T13:11:32+08:00 ] 192.168.1.185 /yzm_buy%2b_suiji_kongwei_999999999/%e5%88%86%e9%85%8dTP%e9%aa%8c%e8%af%81%e7%a0%81%e7%89%88%e9%9a%8f%e6%9c%ba%e9%80%89%e5%8f%b7%e7%a8%8b%e5%ba%8f2015%e6%96%b0/ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002544s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001206s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001412s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.020867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021076s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001207s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001120s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000752s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004739s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001956s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002124s ]
+
+[ 2016-04-25T13:11:33+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002837s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003090s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002449s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001895s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002141s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.026323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026578s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001626s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001484s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001027s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.004055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008835s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003413s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003640s ]
+
+[ 2016-04-25T13:11:33+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003384s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003606s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002215s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 8 行.
+
+[ 2016-04-25T13:11:33+08:00 ] 192.168.1.185 /yzm_buy%2b_suiji_kongwei_999999999/%e5%88%86%e9%85%8dTP%e9%aa%8c%e8%af%81%e7%a0%81%e7%89%88%e9%9a%8f%e6%9c%ba%e9%80%89%e5%8f%b7%e7%a8%8b%e5%ba%8f2015%e6%96%b0/ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002813s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002781s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003103s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.030400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030624s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002965s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002708s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002788s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011677s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003465s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003654s ]
+
+[ 2016-04-25T13:11:34+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.004003s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004321s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002610s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002697s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002936s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.028577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028927s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001930s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.003060s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001304s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008509s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001942s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002117s ]
+
+[ 2016-04-25T13:11:34+08:00 ] 192.168.1.185 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002517s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002824s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001998s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 8 行.
+
+[ 2016-04-25T21:32:53+08:00 ] 192.168.3.103 /yzm_buy%2b_suiji_kongwei_999999999/%e5%88%86%e9%85%8dTP%e9%aa%8c%e8%af%81%e7%a0%81%e7%89%88%e9%9a%8f%e6%9c%ba%e9%80%89%e5%8f%b7%e7%a8%8b%e5%ba%8f2015%e6%96%b0/ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.005568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005842s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.004803s ]
+INFO: [ view_template ] --END-- [ RunTime:0.005049s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.039602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039894s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.003168s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001851s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001450s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009545s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003318s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003551s ]
+
+[ 2016-04-25T21:32:53+08:00 ] 192.168.3.103 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.005745s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005997s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 8 行.
+
+[ 2016-04-25T21:32:53+08:00 ] 192.168.3.103 /yzm_buy+_suiji_kongwei_999999999/%E5%88%86%E9%85%8DTP%E9%AA%8C%E8%AF%81%E7%A0%81%E7%89%88%E9%9A%8F%E6%9C%BA%E9%80%89%E5%8F%B7%E7%A8%8B%E5%BA%8F2015%E6%96%B0/ssq_yzm_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003932s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004200s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003034s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_buy+_suiji_kongwei_999999999/分配TP验证码版随机选号程序2015新/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002794s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003040s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.027953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028184s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002323s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001989s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002214s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009918s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003112s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003281s ]
+
+[ 2016-04-25T21:39:10+08:00 ] 192.168.3.103 /yzm_yuanban_999999999999999999999/yzm_yuanban_99999999999999999/ssq_yzm_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003013s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_yuanban_999999999999999999999/yzm_yuanban_99999999999999999/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001543s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001773s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.023895s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024138s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001352s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.003841s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001924s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001715s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009709s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003456s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003719s ]
+
+[ 2016-04-25T21:39:11+08:00 ] 192.168.3.103 /yzm_yuanban_999999999999999999999/yzm_yuanban_99999999999999999/ssq_yzm_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003101s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003338s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002392s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_yuanban_999999999999999999999/yzm_yuanban_99999999999999999/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001833s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002155s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.035165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035416s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001372s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.003919s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001155s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009129s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002268s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002498s ]
+
+[ 2016-04-25T21:39:11+08:00 ] 192.168.3.103 /yzm_yuanban_999999999999999999999/yzm_yuanban_99999999999999999/ssq_yzm_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002850s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003141s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004667s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/yzm_yuanban_999999999999999999999/yzm_yuanban_99999999999999999/ssq_yzm_thinkphp/Lib/Action/IndexAction.class.php 第 8 行.
+

@@ -1,0 +1,54 @@
+[ 2016-04-30T00:00:48+08:00 ] 192.168.3.103 /dlt%2b3_cipai_yzm_daluan_kongwei_999999999999999/yzm_dlt%2b3_cipai_daluan_kongwei9999999999999/dlt%2b3_cipai_ssq_yzm_gai_thinkphp/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002705s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/dlt+3_cipai_yzm_daluan_kongwei_999999999999999/yzm_dlt+3_cipai_daluan_kongwei9999999999999/dlt+3_cipai_ssq_yzm_gai_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002470s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002713s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.027016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027246s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002060s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002677s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002292s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010056s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002924s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003161s ]
+
+[ 2016-04-30T00:00:48+08:00 ] 192.168.3.103 /dlt+3_cipai_yzm_daluan_kongwei_999999999999999/yzm_dlt+3_cipai_daluan_kongwei9999999999999/dlt+3_cipai_ssq_yzm_gai_thinkphp/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002729s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002996s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003719s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/dlt+3_cipai_yzm_daluan_kongwei_999999999999999/yzm_dlt+3_cipai_daluan_kongwei9999999999999/dlt+3_cipai_ssq_yzm_gai_thinkphp/Lib/Action/IndexAction.class.php 第 6 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.006670s ]
+INFO: [ view_template ] --END-- [ RunTime:0.007064s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.028033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028334s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001168s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001112s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000804s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004863s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001762s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001938s ]
+
+[ 2016-04-30T00:00:48+08:00 ] 192.168.3.103 /dlt+3_cipai_yzm_daluan_kongwei_999999999999999/yzm_dlt+3_cipai_daluan_kongwei9999999999999/dlt+3_cipai_ssq_yzm_gai_thinkphp/index.php/Index/verify
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003949s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004197s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002919s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' /storage/emulated/legacy/www/dlt+3_cipai_yzm_daluan_kongwei_999999999999999/yzm_dlt+3_cipai_daluan_kongwei9999999999999/dlt+3_cipai_ssq_yzm_gai_thinkphp/Lib/Action/IndexAction.class.php 第 14 行.
+
